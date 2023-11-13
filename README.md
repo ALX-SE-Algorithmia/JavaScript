@@ -3,5 +3,5 @@
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
 </p>
-
-<h1 align="center">Implementations of Algorithms in the JavaScript Language</h1>
+<h2 align="center">JavaScript</h2>
+<p align="center">This repository contains Data Structures and Algorithms (DSAs) in JavaScript.</p>
